@@ -11,3 +11,11 @@ java {
         languageVersion = JavaLanguageVersion.of(17)
     }
 }
+
+repositories {
+    flatDir { dirs("libs/jacob-1.21") }
+}
+
+dependencies {
+    implementation("com.jacob:jacob")
+}

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/autoitx4java.iml" filepath="$PROJECT_DIR$/autoitx4java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/autoitx4java.main.iml" filepath="$PROJECT_DIR$/.idea/modules/autoitx4java.main.iml" />
     </modules>
   </component>
 </project>
